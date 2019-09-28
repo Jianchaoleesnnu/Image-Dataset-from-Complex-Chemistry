@@ -12,4 +12,4 @@ Complex chemical systems (CCSs) are the most common form of matter in nature. Th
   (1) “dataset-EP3w" (ultrapure water system): image set (i.e., “imageset-2,400W.rar”) gathered from 2,400 3-dimensional EP3 samples, and their labels (i.e., "Table S4-labels2400(EP3w).xlsx”);
   (2) “dataset-AA8"(ultrapure water system): image set (i.e., “imageset-12,000.rar”) gathered from 12,000 8-dimensional AA samples, and their labels (i.e., "Table S5-labels12000(AA8).xlsx”); 
   (3) “dataset-AA5”(human urine system): image set (i.e., “imageset-6,000.rar”) gathered from 6,000 5-dimensional AA samples, and their labels (i.e., "Table S6-labels6000(AA5).xlsx”); 
-  (4) “dataset-EP3S (soil solution system)”: image set (i.e., “imageset-2,400S.rar”) gathered from 2,400 3-dimensional EP3 samples, and their labels (i.e., "Table S7-labels2400(EP3s).xlsx”).
+  (4) “dataset-EP3s (soil solution system)”: image set (i.e., “imageset-2,400S.rar”) gathered from 2,400 3-dimensional EP3 samples, and their labels (i.e., "Table S7-labels2400(EP3s).xlsx”).
