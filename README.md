@@ -1,4 +1,4 @@
-# Dataset-for-complex-chemical-systems
+#Image-Dataset-from-Complex-Chemistry
 
 Complex chemical systems (CCSs) are the most common form of matter in nature. The study of the CCS involves various fields, including biology, chemistry, environment, food, medicine and so on. In the past, via controlling variables and simplifying systematic structures, some researchers attempted to use some precision instruments to analyze the CCS. However, as the number of research dimensions increases, traditional paradigms based on methodological reductionism has failed to help us get accurate effects or behaviors of CCS. At the same time, current expensive apparatus and tedious analytical methods also restricted the researchers to reveal the nature of CCS in many cases. Therefore, we can see that the challenges for CCS analysis come from the fact that complexity of research objects and the lack of adequate research methods for this complexity.
 
