@@ -1,2 +1,2 @@
 # dataset-EP3s (soil solution system)
- “dataset-EP3s (soil solution system)”: image set (i.e., “imageset-2,400S.rar”) gathered from 2,400 3-dimensional EP3 samples, and their labels (i.e., "Table S8.xlsx”).
+ “dataset-EP3s (soil solution system)”: image set (i.e., “imageset-2,400S.rar”) gathered from 2,400 3-dimensional EP3 samples, and their labels (i.e., "Table S7.xlsx”).
